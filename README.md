@@ -1,7 +1,7 @@
 - 👋 Hola, I’m @KausalyaKavuri
-- 👀 For starters, I’m interested in Analyzing, cleaning and reporting the Data. I try to know more about ART and Fashion too.
-- 🌱 I’m currently pursuing Master's in Data Analytics.
-- 💞️ I’m looking forward to collaborate on any Data related projects to quench my thirst for knowledge.
+- 👀 For starters, I’m interested in Analyzing, cleaning and reporting the Data. Fascinated about ART and Fashion.
+- 🌱 Currently pursuing Master's in Data Analytics.
+- 💞️ Openly looking forward to collaborate on any Data related projects to quench my thirst for knowledge.
 - 📫 How to reach me?? Mail me at kausalyakavuri.69@gmail.com.
 
 <!---
