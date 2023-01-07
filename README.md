@@ -1,5 +1,5 @@
 - 👋 Hola, I’m @KausalyaKavuri
-- 👀 For starters, I’m interested in Analyzing, cleaning and reporting the Data. Interested in ART and Cooking. 
+- 👀 For starters, I’m interested in Analyzing, cleaning and reporting the Data. Interested in ART and Cooking👩‍🍳. 
 - 💻 And this is my [LinkedIN](https://www.linkedin.com/in/kausalya-kavuri/)
 - 🏫 Graduated in Master's in Data Analytics from Pennsylvania State University.
 - 👩‍💼 Openly looking forward to collaborate on any Data related projects to quench my thirst for knowledge.
